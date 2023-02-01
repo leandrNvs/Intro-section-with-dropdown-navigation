@@ -23,7 +23,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./desktop.png)
-![](./mobile.png)
+![](./mobile.png)  
+
 ![](./menu-mobile.png)
 
 ### Links
